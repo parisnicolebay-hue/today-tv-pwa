@@ -1,0 +1,12 @@
+{
+  "name": "Today TV — Persian-American Television",
+  "short_name": "Today TV",
+  "description": "Watch Today TV live and discover Persian-American programs.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071426",
+  "theme_color": "#071426",
+  "orientation": "any",
+  "icons": [{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
